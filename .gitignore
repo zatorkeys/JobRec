@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+data/cvs_raw/
+data/cvs/
+data/llm_cache.sqlite
+data/crawl.log

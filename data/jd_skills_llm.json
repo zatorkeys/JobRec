@@ -1,0 +1,574 @@
+{
+ "https://itviec.com/it-jobs/senior-ai-expert-machine-learning-deep-learning-llm-mb-bank-4932": {
+  "core": [
+   "AI",
+   "Machine Learning",
+   "Computer Vision",
+   "NLP",
+   "LLM",
+   "Data Governance",
+   "Risk Management"
+  ],
+  "nice_to_have": [
+   "Leadership"
+  ]
+ },
+ "https://itviec.com/it-jobs/senior-ai-engineer-computer-vision-nlp-llm-mb-bank-5035": {
+  "core": [
+   "AI",
+   "Python",
+   "C++",
+   "Microservices",
+   "FastAPI",
+   "Flask",
+   "Django",
+   "TensorFlow",
+   "PyTorch",
+   "RESTful API",
+   "Git",
+   "Docker",
+   "Kubernetes",
+   "MLOps",
+   "Reinforcement Learning",
+   "Computer Vision",
+   "NLP",
+   "Transformers",
+   "DevOps",
+   "Unit test"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/all-level-ai-engineer-computer-vision-nlp-llm-mb-bank-4205": {
+  "core": [
+   "Python",
+   "C++",
+   "Microservices",
+   "FastAPI",
+   "Flask",
+   "Django",
+   "Machine Learning",
+   "Deep Learning",
+   "PyTorch",
+   "TensorFlow",
+   "Algorithms",
+   "Reinforcement Learning",
+   "Transformers",
+   "Computer Vision",
+   "NLP",
+   "Speech Processing",
+   "MLOps",
+   "Git",
+   "Docker",
+   "Kubernetes"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/mb-trainee-ai-engineer-fresher-intern-mb-bank-4409": {
+  "core": [
+   "Python",
+   "C++",
+   "FastAPI",
+   "Flask",
+   "Django",
+   "TensorFlow",
+   "PyTorch",
+   "RESTful API",
+   "Git",
+   "Docker",
+   "Kubernetes",
+   "MLOps",
+   "Reinforcement Learning",
+   "Computer Vision",
+   "NLP",
+   "Transformers",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/middle-ai-engineer-llm-rag-ml-python-pytorch-tri-nghia-technology-4531": {
+  "core": [
+   "AI",
+   "LLM",
+   "Agentic AI",
+   "Python",
+   "PyTorch",
+   "Machine Learning",
+   "Git",
+   "FastAPI",
+   "Vector Database",
+   "Linux",
+   "Docker",
+   "Azure",
+   "AWS",
+   "SQL"
+  ],
+  "nice_to_have": [
+   "English"
+  ]
+ },
+ "https://itviec.com/it-jobs/senior-expert-ai-engineer-ml-llm-agentic-ai-rag-vinsoc-5952": {
+  "core": [
+   "AI",
+   "Machine Learning",
+   "NLP",
+   "Data Science",
+   "Time Series",
+   "LLM",
+   "RAG",
+   "Agentic AI",
+   "Python",
+   "PyTorch",
+   "TensorFlow",
+   "Scikit-learn",
+   "Vector Database",
+   "Database",
+   "RESTful API",
+   "System Architecture"
+  ],
+  "nice_to_have": [
+   "Cybersecurity",
+   "MLOps",
+   "English"
+  ]
+ },
+ "https://itviec.com/it-jobs/ai-expert-computer-vision-nlp-llm-mb-bank-4706": {
+  "core": [
+   "AI",
+   "Machine Learning",
+   "Computer Vision",
+   "NLP",
+   "LLM",
+   "Data Governance",
+   "Risk Management"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/lead-sr-machine-learning-engineer-python-pytorch-ai-m_service-momo-3815": {
+  "core": [
+   "Python",
+   "Pandas",
+   "NumPy",
+   "Scikit-learn",
+   "Apache Spark",
+   "XGBoost",
+   "PyTorch",
+   "TensorFlow",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/senior-ai-expert-machine-learning-deep-learning-llm-mb-bank-4046": {
+  "core": [
+   "AI",
+   "Machine Learning",
+   "Computer Vision",
+   "NLP",
+   "LLM",
+   "Data Governance",
+   "Risk Management"
+  ],
+  "nice_to_have": [
+   "Leadership"
+  ]
+ },
+ "https://itviec.com/it-jobs/ai-software-engineer-python-go-c-c-ai-agents-mb-bank-5434": {
+  "core": [
+   "Python",
+   "Golang",
+   "C",
+   "C++",
+   "Microservices Architecture",
+   "PostgreSQL",
+   "MongoDB",
+   "RESTful API",
+   "gRPC",
+   "Security",
+   "LLM",
+   "Agentic AI",
+   "LangChain",
+   "RAG",
+   "Vector Database",
+   "Git",
+   "Docker",
+   "Kubernetes"
+  ],
+  "nice_to_have": [
+   "NLP",
+   "Computer Vision",
+   "Speech Processing",
+   "Transformers"
+  ]
+ },
+ "https://itviec.com/it-jobs/agentic-engineer-python-go-c-c-backend-ai-agents-mb-bank-5127": {
+  "core": [
+   "Python",
+   "Golang",
+   "C",
+   "C++",
+   "Microservices Architecture",
+   "PostgreSQL",
+   "MongoDB",
+   "RESTful API",
+   "LLM",
+   "LangChain",
+   "RAG",
+   "Vector Database",
+   "Git",
+   "Docker",
+   "Kubernetes"
+  ],
+  "nice_to_have": [
+   "NLP",
+   "Computer Vision",
+   "Transformers"
+  ]
+ },
+ "https://itviec.com/it-jobs/hcm-middle-senior-ai-engineer-genai-llm-english-mti-technology-4141": {
+  "core": [
+   "AI",
+   "Machine Learning",
+   "LLM",
+   "Generative AI",
+   "Python",
+   "LangChain",
+   "Vector Database",
+   "RAG",
+   "English"
+  ],
+  "nice_to_have": [
+   "Fine-tuning",
+   "vLLM",
+   "MLOps",
+   "AWS",
+   "Azure",
+   "GCP",
+   "Docker",
+   "Computer Vision",
+   "Speech Processing"
+  ]
+ },
+ "https://itviec.com/it-jobs/ai-engineer-llm-python-docker-api-rag-vietinbank-0426": {
+  "core": [
+   "Python",
+   "LLM",
+   "Generative AI",
+   "RAG",
+   "Prompt Engineering",
+   "Agentic AI",
+   "RESTful API",
+   "Docker",
+   "System Architecture",
+   "Security",
+   "English"
+  ],
+  "nice_to_have": [
+   "MLOps",
+   "NLP",
+   "Cloud",
+   "Agile"
+  ]
+ },
+ "https://itviec.com/it-jobs/agentic-ai-engineer-llm-python-cong-ty-tnhh-nexlab-it-solutions-0423": {
+  "core": [
+   "Python",
+   "LLM",
+   "Agentic AI",
+   "LangChain",
+   "Prompt Engineering",
+   "RESTful API"
+  ],
+  "nice_to_have": [
+   "Cybersecurity",
+   "Pentest",
+   "Fine-tuning",
+   "RAG",
+   "Vector Database"
+  ]
+ },
+ "https://itviec.com/it-jobs/ai-engineer-rpa-llm-ml-api-cong-ty-co-phan-vang-bac-da-quy-bao-tin-manh-hai-1734": {
+  "core": [
+   "AI",
+   "Machine Learning",
+   "Robotic Process Automation (RPA)",
+   "Python",
+   "LLM",
+   "RESTful API",
+   "RAG",
+   "Power Automate",
+   "UiPath",
+   "n8n"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/ai-engineer-llm-training-fine-tuning-officience-5421": {
+  "core": [
+   "Python",
+   "TypeScript",
+   "JavaScript",
+   "SQL",
+   "PyTorch",
+   "TensorFlow",
+   "NumPy",
+   "Pandas",
+   "Machine Learning",
+   "Deep Learning",
+   "NLP",
+   "Transformers",
+   "Fine-tuning",
+   "LLM",
+   "LangChain",
+   "FastAPI",
+   "RESTful API",
+   "PostgreSQL",
+   "MySQL",
+   "Docker",
+   "Git",
+   "Linux",
+   "CI/CD",
+   "English"
+  ],
+  "nice_to_have": [
+   "AWS",
+   "Azure",
+   "MLOps",
+   "Agentic AI",
+   "RAG"
+  ]
+ },
+ "https://itviec.com/it-jobs/ai-developer-ai-builder-vibe-coder-cong-ty-co-phan-dau-tu-phat-trien-cong-nghe-thoi-dai-moi-1629": {
+  "core": [
+   "AI",
+   "SQL",
+   "RESTful API",
+   "Git",
+   "Cloudflare",
+   "Database",
+   "Prompt Engineering"
+  ],
+  "nice_to_have": [
+   "TypeScript",
+   "JavaScript",
+   "ReactJS",
+   "Python",
+   "ERP",
+   "Agentic AI"
+  ]
+ },
+ "https://itviec.com/it-jobs/head-of-data-data-engineer-ai-ml-katalon-0308": {
+  "core": [
+   "Data Engineering",
+   "Data Analysis",
+   "Data Science",
+   "BI",
+   "Snowflake",
+   "Databricks",
+   "BigQuery",
+   "Redshift",
+   "Cloud",
+   "AWS",
+   "Apache Airflow",
+   "Apache Kafka",
+   "SQL",
+   "Python",
+   "Machine Learning",
+   "MLOps",
+   "AI",
+   "Data Governance",
+   "Data Quality",
+   "Security"
+  ],
+  "nice_to_have": [
+   "Generative AI",
+   "LLM",
+   "Agentic AI",
+   "Vector Database",
+   "RAG",
+   "Recommender Systems"
+  ]
+ },
+ "https://itviec.com/it-jobs/ai-engineer-middle-senior-saigon-technology-2800": {
+  "core": [
+   "Python",
+   "TensorFlow",
+   "PyTorch",
+   "Scikit-learn",
+   "Pandas",
+   "LangChain",
+   "LLM",
+   "Agentic AI",
+   "RAG",
+   "OpenCV",
+   "Linux",
+   "Jupyter",
+   "Git",
+   "Docker",
+   "English"
+  ],
+  "nice_to_have": [
+   "Flask",
+   "Django",
+   "FastAPI",
+   "SQL",
+   "PostgreSQL",
+   "MySQL",
+   "NoSQL",
+   "MongoDB",
+   "Vector Database",
+   "RESTful API",
+   "MLOps",
+   "Apache Airflow",
+   "CI/CD",
+   "Generative AI",
+   "Prompt Engineering"
+  ]
+ },
+ "https://itviec.com/it-jobs/senior-it-operations-engineer-katalon-3724": {
+  "core": [
+   "System Admin",
+   "Google Workspace",
+   "Microsoft 365",
+   "OAuth",
+   "AI",
+   "Bash",
+   "Python",
+   "English"
+  ],
+  "nice_to_have": [
+   "Jira",
+   "Cloud",
+   "AWS"
+  ]
+ },
+ "https://itviec.com/it-jobs/han-bridge-engineer-japanese-n2-up-to-60m-hybrid-one-1629": {
+  "core": [
+   "Japanese",
+   "Bridge Engineer",
+   "PHP",
+   "Java",
+   "Ruby on Rails",
+   "C#",
+   "AI",
+   "Git",
+   "Agile"
+  ],
+  "nice_to_have": []
+ },
+ "https://itviec.com/it-jobs/staff-software-engineer-golang-ghn-2852": {
+  "core": [
+   "Golang",
+   "Microservices",
+   "System Architecture",
+   "SQL",
+   "Agentic AI"
+  ],
+  "nice_to_have": [
+   "Python",
+   "MongoDB",
+   "ReactJS",
+   "Docker",
+   "Kubernetes",
+   "CI/CD",
+   "Cloud",
+   "Agentic AI"
+  ]
+ },
+ "https://itviec.com/it-jobs/principal-java-kotlin-engineer-banking-saas-money-forward-vietnam-co-ltd-5007": {
+  "core": [
+   "Java",
+   "Kotlin",
+   "Spring Boot",
+   "SQL",
+   "Apache Kafka",
+   "Automation Test",
+   "Database",
+   "Microservices Architecture",
+   "RESTful API",
+   "CI/CD",
+   "Cloud-native Architecture",
+   "AWS",
+   "Azure",
+   "GCP",
+   "English"
+  ],
+  "nice_to_have": [
+   "AI",
+   "DevOps",
+   "DevSecOps"
+  ]
+ },
+ "https://itviec.com/it-jobs/senior-golang-engineer-backend-aws-mysql-andpad-vietnam-co-ltd-3524": {
+  "core": [
+   "Golang",
+   "AWS",
+   "gRPC",
+   "Frameworks",
+   "Database",
+   "NoSQL",
+   "Application Security",
+   "Unit test"
+  ],
+  "nice_to_have": [
+   "Docker",
+   "Kubernetes",
+   "System Architecture",
+   "Agentic AI",
+   "Generative AI"
+  ]
+ },
+ "https://itviec.com/it-jobs/middle-senior-backend-engineer-java-vinsmart-future-0047": {
+  "core": [
+   "Java",
+   "System Architecture",
+   "Microservices Architecture",
+   "Prometheus",
+   "Grafana",
+   "MySQL",
+   "PostgreSQL",
+   "Elasticsearch",
+   "ClickHouse",
+   "Redis",
+   "MongoDB",
+   "Apache Kafka",
+   "Application Security",
+   "OWASP",
+   "Algorithms",
+   "OOP",
+   "RESTful API",
+   "gRPC",
+   "Unit test",
+   "AI"
+  ],
+  "nice_to_have": [
+   "Stakeholder management"
+  ]
+ },
+ "https://itviec.com/it-jobs/cyber-security-engineer-appsec-pentest-scandinavian-software-park-4019": {
+  "core": [
+   "Application Security",
+   "Pentest",
+   "RESTful API",
+   "OWASP",
+   "LLM",
+   "Generative AI",
+   "Prompt Engineering",
+   "Python",
+   "JavaScript",
+   "TypeScript",
+   "Java",
+   "Golang",
+   "C#",
+   "AWS",
+   "Azure",
+   "GCP",
+   "Kubernetes",
+   "Cloud-native Architecture",
+   "English"
+  ],
+  "nice_to_have": [
+   "Cybersecurity",
+   "Risk Management"
+  ]
+ }
+}

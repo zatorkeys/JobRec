@@ -1,0 +1,24 @@
+[NAME] – AI Engineer Intern
+[CONTACT]
+
+EDUCATION
+[SCHOOL] – Bachelor of Information Technology, 3rd year, GPA 3.5/4
+
+SKILLS
+Python, PyTorch, scikit-learn, NumPy, Pandas, OpenCV, Hugging Face Transformers, FastAPI, Docker, Git
+Kiến thức: học máy, học sâu, xử lý ngôn ngữ tự nhiên, thị giác máy tính
+English: IELTS 6.5
+
+PROJECTS
+Vietnamese news classification (2026)
+- Fine-tune PhoBERT với Hugging Face Transformers để phân loại 10 chủ đề tin tức, F1 0.89.
+- Triển khai API dự đoán bằng FastAPI, đóng gói Docker.
+
+Chatbot hỏi đáp quy chế học vụ – RAG (2026)
+- Xây dựng hệ thống RAG dùng LLM (Gemini API) + FAISS làm vector database, LangChain để ghép pipeline.
+
+Phát hiện khẩu trang bằng YOLOv8 (2025)
+- Huấn luyện YOLOv8 trên 5.000 ảnh, xử lý ảnh với OpenCV, mAP@0.5 = 0.91.
+
+House price prediction (2025)
+- EDA và feature engineering bằng Pandas, so sánh XGBoost với Random Forest trong scikit-learn.

@@ -1,0 +1,32 @@
+[NAME]
+Sinh viên năm 4 – Ngành Khoa học máy tính – [SCHOOL]
+[CONTACT]
+
+MỤC TIÊU NGHỀ NGHIỆP
+Mong muốn trở thành Data Engineer, tìm kiếm vị trí Intern/Fresher để xây dựng pipeline dữ liệu quy mô lớn.
+
+HỌC VẤN
+Cử nhân Khoa học máy tính, GPA 3.3/4.0 (2023 – 2027)
+Môn học liên quan: Cơ sở dữ liệu, Cấu trúc dữ liệu và giải thuật, Hệ phân tán, Xác suất thống kê.
+
+KỸ NĂNG
+- Ngôn ngữ: Python, SQL, Java (cơ bản)
+- Dữ liệu: PySpark, Pandas, Apache Airflow, Kafka (cơ bản)
+- Database: PostgreSQL, MongoDB
+- Công cụ: Docker, Git, Linux
+- Tiếng Anh: TOEIC 750
+
+DỰ ÁN
+1. Pipeline phân tích dữ liệu thương mại điện tử (02/2026 – 05/2026)
+   - Thu thập 2 triệu bản ghi đơn hàng, xử lý bằng PySpark và lưu vào PostgreSQL theo mô hình star schema.
+   - Lập lịch các job ETL hằng ngày bằng Airflow, đóng gói bằng Docker Compose.
+   - Dựng dashboard doanh thu theo vùng bằng Power BI.
+
+2. Hệ thống streaming log thời gian thực (09/2025 – 12/2025)
+   - Đẩy log web vào Kafka, xử lý bằng Spark Streaming, lưu kết quả vào MongoDB.
+
+3. Crawler tin tuyển dụng (06/2025)
+   - Viết crawler bằng Python (requests, BeautifulSoup), làm sạch dữ liệu bằng Pandas.
+
+HOẠT ĐỘNG
+- Thành viên CLB Data Science của khoa, chia sẻ về SQL cho sinh viên năm nhất.
